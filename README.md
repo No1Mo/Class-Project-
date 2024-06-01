@@ -5,7 +5,7 @@ The languages, the syntax, the things to do.
 Staring at a screen, feeling quite lost,
 Wondering if the rewards would be worth the cost.
 
-<<br>Frustration mounted, mistakes were made,
+<br>Frustration mounted, mistakes were made,
 Debugging errors, progress often delayed.
 But with each challenge, a lesson learned,
 Slowly, the passion within me burned.
